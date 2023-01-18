@@ -1,0 +1,8 @@
+# Node artifact files
+comparatupoliza-api/node_modules/
+comparatupoliza-api/package-lock.json
+dist/
+
+# Compiled Python bytecode
+*.py[cod]
+venv/
